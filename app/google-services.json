@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617120967026",
+    "project_id": "safelife-4428e",
+    "storage_bucket": "safelife-4428e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617120967026:android:7e93ccafefd781dc9895eb",
+        "android_client_info": {
+          "package_name": "com.example.safelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617120967026-pl2scdlbftdcr19j3g13b57goteif8go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNiUQO-r-PpmrN8gOPuP1NV6OewxbwqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617120967026-pl2scdlbftdcr19j3g13b57goteif8go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

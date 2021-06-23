@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SafeLife</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">NuVPPvuobDL6VLmDb0KaPMQ4fjP4bWMbKWN6LIyO</string>
+    <string name="back4app_client_key">9NFJ4eCaGD4S5Sa5GH1HjviGdfu8IAeCKtcgcc41</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
